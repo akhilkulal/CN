@@ -1,0 +1,58 @@
+At first 
+GET:
+GET / ATWS/0.1
+Host:127.0.0.1
+
+PUT:
+PUT /filename  ATWS/0.1
+Host: 127.0.0.1
+Content-Type: text/html
+Content-Length: 20
+
+<p>HELLO WORLD</p>
+
+DELETE:
+
+DELETE /file-name ATWS/0.1
+Host: 127.0.0.1
+
+POST:
+
+POST /filename ATWS/0.1
+Host: 127.0.0.1
+Content-Type:application/x-www-form-urlencoded
+
+name=akhil&value=25& .. add some more seperated by and
+
+POST /filename ATWs/0.1
+Host: 127.0.0.1
+Content-Type:multipart/form-data;boundary=akl  (akl or some other words can be used)
+
+--akl
+Content-Disposition: form-data;name="pl"
+Content-Type: text/plain
+Content-Length: 120
+
+--akl
+Content-Disposition: form-data;name="pl"
+Content-Type: application/x-www-form-urlencoded
+
+name=akhil&value=25&  #add some more seperated by and
+
+--akl--
+
+HEAD:
+
+HEAD /filename ATWS/0.1
+Host: 127.0.0.1
+
+Conditional GET:
+
+GET /filename ATWS/0.1
+Host: 127.0.0.1
+If-Match: Value of Etag
+If-Modified Since: Date  #it means after specified date it is modified
+
+ 
+
+
