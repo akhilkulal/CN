@@ -1,0 +1,185 @@
+Log Date and Time: Fri,13 Nov 2020 12:15:37 IST
+Log Date and Time: Fri,13 Nov 2020 12:21:56 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:index.html
+LastModifiedDate:Fri,13 Nov 2020 12:21:56 IST
+
+Log Date and Time:Sat,14 Nov 2020 15:51:55 IST
+IP address:127.0.1.1
+MAC address:None
+Request Name:POST
+Response Number: 200
+Filename:a.txt
+LastModifiedDate:Sat,14 Nov 2020 15:51:55 IST
+
+Log Date and Time:Sat,14 Nov 2020 16:22:33 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:POST
+Response Number: 200
+Filename:a.txt
+LastModifiedDate:Sat,14 Nov 2020 16:22:33 IST
+
+Log Date and Time:Sat,14 Nov 2020 17:20:35 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:index.html
+LastModifiedDate:Sat,14 Nov 2020 17:20:35 IST
+
+Log Date and Time:Mon,07 Dec 2020 15:00:01 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:index.html
+LastModifiedDate:Mon,07 Dec 2020 15:00:01 IST
+
+Log Date and Time:Mon,07 Dec 2020 15:00:30 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:html/400r.html
+LastModifiedDate:Mon,07 Dec 2020 15:00:30 IST
+
+Log Date and Time:Mon,07 Dec 2020 15:01:15 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:HEAD
+Response Number: 200
+Filename:index.html
+LastModifiedDate:Mon,07 Dec 2020 15:00:01 IST
+
+Log Date and Time:Mon,07 Dec 2020 15:03:04 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:DELETE
+Response Number: 200
+Filename:a.txt
+LastModifiedDate:Sat,14 Nov 2020 16:22:33 IST
+
+Log Date and Time:Mon,07 Dec 2020 15:57:28 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:html/400r.html
+LastModifiedDate:Mon,07 Dec 2020 15:57:28 IST
+
+Log Date and Time:Mon,07 Dec 2020 16:00:34 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:html/400r.html
+LastModifiedDate:Mon,07 Dec 2020 16:00:34 IST
+
+Log Date and Time:Mon,07 Dec 2020 19:31:23 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:index.html
+LastModifiedDate:Mon,07 Dec 2020 19:31:23 IST
+
+Log Date and Time:Mon,07 Dec 2020 19:32:22 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:PUT
+Response Number: 201
+Filename:a.html
+LastModifiedDate:Mon,07 Dec 2020 19:32:22 IST
+
+Log Date and Time:Mon,07 Dec 2020 19:45:02 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:index.html
+LastModifiedDate:Mon,07 Dec 2020 19:45:02 IST
+
+Log Date and Time:Mon,07 Dec 2020 19:45:36 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:HEAD
+Response Number: 200
+Filename:index.html
+LastModifiedDate:Mon,07 Dec 2020 19:45:02 IST
+
+Log Date and Time:Mon,07 Dec 2020 19:47:59 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:DELETE
+Response Number: 200
+Filename:a.html
+LastModifiedDate:Mon,07 Dec 2020 19:32:22 IST
+
+Log Date and Time:Mon,07 Dec 2020 19:49:07 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:PUT
+Response Number: 201
+Filename:a.html
+LastModifiedDate:Mon,07 Dec 2020 19:49:07 IST
+
+Log Date and Time:Mon,07 Dec 2020 19:50:33 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:DELETE
+Response Number: 200
+Filename:a.html
+LastModifiedDate:Mon,07 Dec 2020 19:49:07 IST
+
+Log Date and Time:Tue,08 Dec 2020 18:59:44 IST
+IP address:127.0.1.1
+MAC address:None
+Request Name:GET
+Response Number: 200
+Filename:index.html
+LastModifiedDate:Tue,08 Dec 2020 18:59:44 IST
+
+Log Date and Time:Thu,10 Dec 2020 08:54:03 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:index.html
+LastModifiedDate:Thu,10 Dec 2020 08:54:03 IST
+
+Log Date and Time:Thu,10 Dec 2020 09:36:28 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:html/400r.html
+LastModifiedDate:Thu,10 Dec 2020 09:36:28 IST
+
+Log Date and Time:Thu,10 Dec 2020 10:49:58 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:html/400r.html
+LastModifiedDate:Thu,10 Dec 2020 10:49:58 IST
+
+Log Date and Time:Thu,10 Dec 2020 10:50:41 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:html/400r.html
+LastModifiedDate:Thu,10 Dec 2020 10:50:41 IST
+
+Log Date and Time:Thu,10 Dec 2020 10:51:11 IST
+IP address:127.0.1.1
+MAC address:b0:52:16:3c:6d:55
+Request Name:GET
+Response Number: 200
+Filename:html/400r.html
+LastModifiedDate:Thu,10 Dec 2020 10:51:11 IST
+
